@@ -4,6 +4,7 @@
 *.eep
 *.elf
 *.hex
+!keyboards/mint60/keymaps/hanocha/*.hex
 *.qmk
 !util/bootloader.hex
 !quantum/tools/eeprom_reset.hex
